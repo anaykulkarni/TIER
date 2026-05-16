@@ -1,0 +1,20 @@
+# Core dependencies for TIER training and evaluation.
+# CUDA-specific accelerators (vllm, flash-attn, flashinfer) are in
+# requirements-cuda.txt because they depend on the installed CUDA toolkit
+# and Torch backend.
+
+transformers==4.56.2
+trl
+peft
+bitsandbytes
+deepspeed
+accelerate
+
+datasets
+pandas
+numpy
+lxml
+rapidfuzz
+tensorboard
+
+huggingface-hub[cli]

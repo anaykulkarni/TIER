@@ -1,0 +1,6 @@
+hotel_id,name,city,stars,price,pool,gym,wifi,available_from,available_to,room_types
+HTL_TOKYO_BAY,Tokyo Bay Inn,Tokyo,4,129.0,True,True,True,2025-11-10,2025-11-30,"KING,TWIN,DOUBLE"
+HTL_SHINJUKU_GRAND,Shinjuku Grand,Tokyo,5,199.0,False,True,True,2025-11-01,2025-12-10,"KING,DOUBLE"
+HTL_ASAKUSA_ECONO,Asakusa Econo,Tokyo,3,89.0,False,False,True,2025-11-15,2025-12-01,"TWIN,DOUBLE"
+HTL_LONDON_PARK,London Park Hotel,London,4,150.0,False,True,True,2025-11-14,2025-11-25,"KING,DOUBLE"
+HTL_LHR_TERMINAL,Heathrow Terminal Stay,London,3,110.0,False,False,True,2025-11-15,2025-11-30,"TWIN,DOUBLE"

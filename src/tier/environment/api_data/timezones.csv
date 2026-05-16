@@ -1,0 +1,50 @@
+City,Timezone,UTC_Offset
+New York,EDT,-4.0
+London,GMT,0.0
+Tokyo,JST,9.0
+Paris,CET,1.0
+Sydney,AEST,10.0
+Los Angeles,PDT,-7.0
+Chicago,CDT,-5.0
+Beijing,CST_China,8.0
+Moscow,MSK,3.0
+Dubai,GST,4.0
+Berlin,CEST,2.0
+San Francisco,PDT,-7.0
+Toronto,EDT,-4.0
+Mumbai,IST,5.5
+Cape Town,SAST,2.0
+São Paulo,BRT,-3.0
+Mexico City,CST,-6.0
+Seoul,KST,9.0
+Singapore,SGT,8.0
+Bangkok,ICT,7.0
+Buenos Aires,ART,-3.0
+Rome,CET,1.0
+Madrid,CET,1.0
+Istanbul,TRT,3.0
+Cairo,EET,2.0
+Helsinki,EEST,3.0
+Auckland,NZST,12.0
+Honolulu,HST,-10.0
+Vancouver,PDT,-7.0
+Reykjavik,GMT,0.0
+Lisbon,WEST,1.0
+Tehran,IRST,3.5
+Karachi,PKT,5.0
+Jakarta,WIB,7.0
+Wellington,NZST,12.0
+Manila,PHT,8.0
+Lagos,WAT,1.0
+Nairobi,EAT,3.0
+Kuala Lumpur,MYT,8.0
+Doha,AST_Arabia,3.0
+Athens,EET,2.0
+Oslo,CEST,2.0
+Stockholm,CEST,2.0
+Zurich,CEST,2.0
+Boston,EDT,-4.0
+Denver,MDT,-6.0
+Phoenix,MST,-7.0
+Perth,AWST,8.0
+Brisbane,AEST,10.0

@@ -1,0 +1,6 @@
+cart_id,user_id,created_date,status,total_items
+cart_12345,user001,2024-08-20,active,3
+cart_67890,user002,2024-08-20,active,1
+cart_54321,user003,2024-08-19,abandoned,2
+cart_98765,user004,2024-08-21,active,5
+cart_11111,user005,2024-08-20,checked_out,2

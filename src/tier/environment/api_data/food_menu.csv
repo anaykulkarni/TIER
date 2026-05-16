@@ -1,0 +1,189 @@
+Store,Item,Price,Type
+McDonald's,Big Mac,5.99,American
+McDonald's,Spicy McCrispy,4.99,American
+McDonald's,Quarter Pounder With Cheese, 5.69,American
+McDonald's,Egg McMuffin, 4.49,American
+McDonald's,Fries, 2.99,American
+McDonald's,McFlurry, 3.99,American
+McDonald's,Premium Roast Coffee, 1.99,American
+McDonald's,Sweet Tea, 1.99,American
+McDonald's, 4 piece McNuggets, 3.59,American
+McDonald's, 8 piece McNuggets, 4.99,American
+McDonald's, 10 piece McNuggets, 5.79,American
+Starbucks,Espresso, 2.99,Beverage
+Starbucks,Latte, 3.99,Beverage
+Starbucks,Cappuccino, 3.99,Beverage
+Starbucks,Americano, 2.99,Beverage
+Starbucks,Mocha, 4.99,Beverage
+Starbucks,Macchiato, 3.99,Beverage
+Starbucks,Flat White, 3.99,Beverage
+Starbucks,Iced Coffee, 2.99,Beverage
+Starbucks,Iced Latte, 3.99,Beverage
+Starbucks,Iced Cappuccino, 3.99,Beverage
+Starbucks,Iced Americano, 2.99,Beverage
+Starbucks,Iced Mocha, 4.99,Beverage
+Starbucks,Premium Roast Coffee, 2.59,Beverage
+Starbucks,Sweet Tea, 1.99,Beverage
+BBQ Chicken,BBQ Chicken Sandwich, 7.99,American
+BBQ Chicken,BBQ Chicken Wrap, 7.99,American
+BBQ Chicken,Korean BBQ Chicken, 8.99,American
+BBQ Chicken,BBQ Chicken Salad, 7.99,American
+BBQ Chicken,Fries, 2.99,American
+BBQ Chicken,Sweet Tea, 1.99,American
+BBQ Chicken,American BBQ Chicken, 8.99,American
+BBQ Chicken,Whole Roasted Chicken, 23.99,American
+BBQ Chicken,Fried Wings, 12.99,American
+BBQ Chicken,Fried Boneless Wings, 14.99,American
+BBQ Chicken,Fried drumsticks, 16.99,American
+BBQ Chicken,Fried tenders, 18.99,American
+Best Tea House,Tie Guan Yin Milk Tea,14.9 / 16.9,Beverage
+Best Tea House,Glutinous Green Milk Tea,12.9 / 14.9,Beverage
+Best Tea House,Da Hong Pao Milk Tea,12.9 / 14.9,Beverage
+Best Tea House,Jasmine Green Milk Tea,11.9 / 13.9,Beverage
+Best Tea House,Yunnan Puer Milk Tea,13.9 / 15.9,Beverage
+Best Tea House,Tie Guan Yin Tea,12.9 / 14.9,Beverage
+Best Tea House,Da Hong Pao Tea,11.9 / 13.9,Beverage
+Best Tea House,Glutinous Green Tea,10.9 / 12.9,Beverage
+Best Tea House,Yunnan Puer Tea,10.9 / 12.9,Beverage
+Best Tea House,Organic Oriental Beauty Tea, 12.9 / 14.9,Beverage
+Best Tea House,Da Hong Pao Cold Brew,12.9 /14.9,Beverage
+Best Tea House,Tie Guan Yin Cold Brew,10.9 / 12.9,Beverage
+Best Tea House,Royale Fruit Jasmine Tea,17.9 / 19.9,Beverage
+Best Tea House,Fresh Mango Jasmine Tea,16.9 / 18.9,Beverage
+Best Tea House,Fresh Lemon Glutinous Green Tea,13.9 / 15.9,Beverage
+Best Tea House,Fresh Orange Jasmine Tea,13.9 / 15.9,Beverage
+Best Tea House,Fresh Grapefruit Jasmine Tea,13.9 / 15.9,Beverage
+Best Tea House,Jasmine Peach Tea,11.9 / 13.9,Beverage
+AA Brunch,Classic pancake,12.0,American
+AA Brunch,Blueberry pancake,16.0,American
+AA Brunch,Banana pancake,14.0,American
+AA Brunch,Chocolate pancake,10.5,American
+AA Brunch,Oatmeal pancake,17.0,American
+AA Brunch,Corn pancake,15.0,American
+AA Brunch,Cheese pancake,18.0,American
+AA Brunch,Classic waffle,10.0,American
+AA Brunch,Blueberry waffle,13.0,American
+AA Brunch,Banana waffle,15.0,American
+AA Brunch,Chocolate chip waffle,10.5,American
+AA Brunch,Oatmeal waffle,13.5,American
+AA Brunch,Cornmeal waffle,14.0,American
+AA Brunch,Belgian waffle,15.0,American
+AA Brunch,Classic French toast,12.0,American
+AA Brunch,Cinnamon French toast,15.0,American
+AA Brunch,Blueberry French toast,14.0,American
+AA Brunch,Banana French toast,10.5,American
+AA Brunch,Chocolate French toast,19.0,American
+AA Brunch,Strawberry French toast,15.0,American
+AA Brunch,Savory French toast,11.5,American
+The Golden Spoon,Grilled Salmon,22.5,American
+The Golden Spoon,Caesar Salad,12.0,American
+The Golden Spoon,Steak Frites,26.0,American
+The Golden Spoon,Chicken Parmesan,18.5,American
+The Golden Spoon,Lobster Bisque,15.0,American
+The Golden Spoon,Garlic Bread,6.5,American
+The Golden Spoon,Mushroom Risotto,17.0,American
+The Golden Spoon,Chocolate Lava Cake,9.0,American
+The Golden Spoon,Tiramisu,8.5,American
+Ocean Breeze Grill,Fish Tacos,14.0,American
+Ocean Breeze Grill,Shrimp Skewers,18.0,American
+Ocean Breeze Grill,Crab Cakes,19.5,American
+Ocean Breeze Grill,Seafood Chowder,13.0,American
+Ocean Breeze Grill,Grilled Octopus,21.0,American
+Ocean Breeze Grill,Mahi Mahi Burger,15.5,American
+Ocean Breeze Grill,Coconut Rice,7.5,American
+Ocean Breeze Grill,Key Lime Pie,8.0,American
+Ocean Breeze Grill,Tropical Smoothie,6.0,American
+Mountain Hearth Diner,BBQ Ribs,20.0,American
+Mountain Hearth Diner,Cheeseburger Deluxe,13.0,American
+Mountain Hearth Diner,Country Fried Steak,17.0,American
+Mountain Hearth Diner,Mashed Potatoes,6.5,American
+Mountain Hearth Diner,Buttermilk Pancakes,9.5,American
+Mountain Hearth Diner,Apple Pie,7.0,American
+Mountain Hearth Diner,Hot Chocolate,4.5,American
+Mountain Hearth Diner,Buffalo Wings,11.0,American
+Mountain Hearth Diner,Milkshake,5.5,American
+La Piazza Italiana,Margherita Pizza,14.0,Italian
+La Piazza Italiana,Fettuccine Alfredo,16.5,Italian
+La Piazza Italiana,Lasagna Bolognese,17.0,Italian
+La Piazza Italiana,Bruschetta,7.0,Italian
+La Piazza Italiana,Caprese Salad,9.5,Italian
+La Piazza Italiana,Panna Cotta,8.0,Italian
+La Piazza Italiana,Espresso,3.5,Italian
+La Piazza Italiana,Tiramisu,8.5,Italian
+La Piazza Italiana,Gelato Trio,6.5,Italian
+The Rustic Table,Grilled Lamb Chops,25.0,American
+The Rustic Table,Roasted Veggie Bowl,13.5,American
+The Rustic Table,Beef Stew,18.0,American
+The Rustic Table,Baked Mac & Cheese,12.0,American
+The Rustic Table,Avocado Toast,10.5,American
+The Rustic Table,Lentil Soup,8.0,American
+The Rustic Table,Garlic Roasted Potatoes,7.0,American
+The Rustic Table,Berry Cheesecake,9.0,American
+The Rustic Table,Herbal Tea,4.5,American
+Bean & Brew Coffeehouse,Espresso,3.5,Beverage
+Bean & Brew Coffeehouse,Cappuccino,4.5,Beverage
+Bean & Brew Coffeehouse,Latte,4.8,Beverage
+Bean & Brew Coffeehouse,Cold Brew,5.0,Beverage
+Bean & Brew Coffeehouse,Mocha,5.2,Beverage
+Bean & Brew Coffeehouse,Matcha Latte,5.5,Beverage
+Bean & Brew Coffeehouse,Croissant,3.8,Beverage
+Bean & Brew Coffeehouse,Blueberry Muffin,3.5,Beverage
+Bean & Brew Coffeehouse,Caramel Macchiato,5.6,Beverage
+Boba Galaxy,Classic Milk Tea,4.5,Beverage
+Boba Galaxy,Taro Boba,4.8,Beverage
+Boba Galaxy,Matcha Latte Boba,5.0,Beverage
+Boba Galaxy,Brown Sugar Boba,5.2,Beverage
+Boba Galaxy,Honeydew Milk Tea,4.7,Beverage
+Boba Galaxy,Strawberry Smoothie,5.5,Beverage
+Boba Galaxy,Mango Green Tea,4.9,Beverage
+Boba Galaxy,Passionfruit Tea,4.6,Beverage
+Boba Galaxy,Wintermelon Tea,4.5,Beverage
+Fresh Squeeze Bar,Orange Juice,4.0,Beverage
+Fresh Squeeze Bar,Apple Juice,3.8,Beverage
+Fresh Squeeze Bar,Carrot Ginger Juice,4.5,Beverage
+Fresh Squeeze Bar,Beetroot Detox,4.8,Beverage
+Fresh Squeeze Bar,Green Smoothie,5.0,Beverage
+Fresh Squeeze Bar,Berry Blast,5.2,Beverage
+Fresh Squeeze Bar,Watermelon Cooler,4.3,Beverage
+Fresh Squeeze Bar,Pineapple Mint Juice,4.7,Beverage
+Fresh Squeeze Bar,Coconut Water,3.5,Beverage
+Tokyo Dreams,Salmon Sashimi,18.0,Japanese
+Tokyo Dreams,Tuna Nigiri,16.5,Japanese
+Tokyo Dreams,Dragon Roll,14.0,Japanese
+Tokyo Dreams,Tempura Udon,13.5,Japanese
+Tokyo Dreams,Chicken Katsu Don,12.0,Japanese
+Tokyo Dreams,Miso Soup,5.0,Japanese
+Tokyo Dreams,Edamame,6.0,Japanese
+Tokyo Dreams,Beef Sukiyaki,20.0,Japanese
+Tokyo Dreams,Matcha Cheesecake,8.0,Japanese
+Tokyo Dreams,Green Tea,3.5,Japanese
+Wasabi Garden,California Roll,12.0,Japanese
+Wasabi Garden,Eel Avocado Roll,14.5,Japanese
+Wasabi Garden,Spicy Tuna Roll,13.0,Japanese
+Wasabi Garden,Ramen with Pork Belly,15.0,Japanese
+Wasabi Garden,Teriyaki Chicken,13.5,Japanese
+Wasabi Garden,Gyoza Dumplings,7.5,Japanese
+Wasabi Garden,Seaweed Salad,6.5,Japanese
+Wasabi Garden,Shrimp Tempura,11.0,Japanese
+Wasabi Garden,Mochi Ice Cream,7.0,Japanese
+Wasabi Garden,Sake,9.0,Japanese
+Spice Bazaar,Butter Chicken,16.0,Indian
+Spice Bazaar,Lamb Rogan Josh,18.5,Indian
+Spice Bazaar,Palak Paneer,13.0,Indian
+Spice Bazaar,Chicken Tikka Masala,15.5,Indian
+Spice Bazaar,Vegetable Biryani,12.5,Indian
+Spice Bazaar,Garlic Naan,4.0,Indian
+Spice Bazaar,Tandoori Shrimp,17.0,Indian
+Spice Bazaar,Chana Masala,11.5,Indian
+Spice Bazaar,Samosa (2 pcs),6.0,Indian
+Spice Bazaar,Mango Lassi,5.0,Indian
+Lucky Dragon,Kung Pao Chicken,14.5,Chinese
+Lucky Dragon,Sweet and Sour Pork,13.0,Chinese
+Lucky Dragon,Beef with Broccoli,15.0,Chinese
+Lucky Dragon,Mapo Tofu,12.5,Chinese
+Lucky Dragon,Peking Duck,25.0,Chinese
+Lucky Dragon,Shrimp Fried Rice,11.0,Chinese
+Lucky Dragon,Hot and Sour Soup,8.5,Chinese
+Lucky Dragon,Vegetable Spring Rolls,6.0,Chinese
+Lucky Dragon,Szechuan Noodles,10.5,Chinese
+Lucky Dragon,Steamed Dumplings,9.5,Chinese

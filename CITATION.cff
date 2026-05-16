@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+title: "TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - given-names: Anay
+    family-names: Kulkarni
+    email: ankulkarni@ucsd.edu
+  - given-names: ChiaEn
+    family-names: Lu
+    email: allenlu@ucsd.edu
+  - given-names: Dheeraj
+    family-names: Mekala
+  - given-names: Jayanth
+    family-names: Srinivasa
+  - given-names: Gaowen
+    family-names: Liu
+  - given-names: Jingbo
+    family-names: Shang
+abstract: >
+  Tool use enables large language models to solve complex tasks through
+  sequences of API calls, yet existing reinforcement learning approaches fail
+  to scale to multi-step composition settings.  Outcome-based rewards provide
+  only sparse feedback, while trajectory-supervised rewards depend on
+  annotated reference solutions, penalizing valid alternatives and limiting
+  scalability.  We propose TIER: Trajectory-Invariant Execution Rewards, a
+  reward framework that derives supervision directly from function schemas
+  and runtime execution, rather than from reference trajectories.  The reward
+  decomposes into format validity, schema adherence, execution success, and
+  answer correctness, providing dense, interpretable sequence-level feedback
+  derived from fine-grained verification of individual steps of tool use.
+  This design allows any valid execution path to receive credit, naturally
+  supporting multiple solution strategies and adapting to evolving tool
+  interfaces.  On DepthBench, a compositional benchmark stratified by depth
+  (1 to 6 steps), TIER achieves >90% accuracy across steps, where
+  trajectory-supervised rewards collapse beyond step-4.  We further
+  demonstrate consistent gains on benchmarks like BFCL v3 and NestFUL.
+  Ablation studies confirm that all reward components are necessary,
+  highlighting the importance of multi-level supervision for compositional
+  reasoning.
+keywords:
+  - reinforcement-learning
+  - tool-use
+  - large-language-models
+  - function-calling
+  - reward-modeling
+  - benchmark
+license: "See LICENSE file"
+version: "0.1.0"
+date-released: 2026-05-10
+preferred-citation:
+  type: conference-paper
+  title: "TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition"
+  authors:
+    - given-names: Anay
+      family-names: Kulkarni
+    - given-names: ChiaEn
+      family-names: Lu
+    - given-names: Dheeraj
+      family-names: Mekala
+    - given-names: Jayanth
+      family-names: Srinivasa
+    - given-names: Gaowen
+      family-names: Liu
+    - given-names: Jingbo
+      family-names: Shang
+  conference:
+    name: "Advances in Neural Information Processing Systems (NeurIPS)"
+  year: 2026
+  notes: "Anay Kulkarni and ChiaEn Lu contributed equally."

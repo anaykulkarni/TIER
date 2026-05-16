@@ -1,0 +1,12 @@
+# CUDA-only accelerators.  These wheels are pinned because they are tightly
+# coupled to a specific CUDA toolkit (cu128 in our reference setup, used in
+# the paper experiments on Blackwell-class GPUs).  Adjust the index URLs for
+# other CUDA versions.
+
+vllm==0.10.2
+flash-attn
+flashinfer-python
+flashinfer-cubin
+
+# flashinfer-jit-cache ships pre-built kernels via a separate index.  Install
+# with:  pip install flashinfer-jit-cache --index-url https://flashinfer.ai/whl/cu128/

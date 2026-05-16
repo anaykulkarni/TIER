@@ -1,0 +1,175 @@
+Car Dealership,Car Brand,Build,Year of Production,Clean/Salvage Title,Mileage,Ask Price,Location
+AutoMax Motors,Nissan,Rogue,2020,Clean,25000,28500,New York
+AutoMax Motors,Nissan,Rogue,2020,Clean,45000,26500,New York
+AutoMax Motors,Nissan,Rogue,2020,Clean,65000,24500,New York
+AutoMax Motors,Honda,Civic,2019,Clean,32000,22500,New York
+AutoMax Motors,Honda,Civic,2019,Clean,52000,20500,New York
+AutoMax Motors,Honda,Civic,2019,Clean,72000,18500,New York
+AutoMax Motors,KIA,Forte,2019,Clean,36000,19500,New York
+AutoMax Motors,KIA,Forte,2019,Clean,56000,17500,New York
+AutoMax Motors,KIA,Forte,2019,Salvage,40000,12500,New York
+AutoMax Motors,BMW,3 Series,2019,Clean,35000,38500,New York
+AutoMax Motors,BMW,3 Series,2019,Clean,55000,35500,New York
+AutoMax Motors,BMW,3 Series,2019,Salvage,40000,25500,New York
+AutoMax Motors,Hyundai,Elantra,2019,Clean,38000,18500,New York
+AutoMax Motors,Hyundai,Elantra,2019,Salvage,42000,11500,New York
+Prime Auto Sales,Nissan,Altima,2019,Clean,35000,24500,New York
+Prime Auto Sales,Nissan,Altima,2019,Clean,55000,22500,New York
+Prime Auto Sales,Nissan,Altima,2019,Salvage,40000,16500,New York
+Prime Auto Sales,Honda,Accord,2020,Clean,28000,29500,New York
+Prime Auto Sales,Honda,Accord,2020,Clean,48000,27500,New York
+Prime Auto Sales,Honda,Accord,2020,Salvage,32000,19500,New York
+Prime Auto Sales,Mercedes-Benz,C-Class,2019,Clean,38000,42500,New York
+Prime Auto Sales,Mercedes-Benz,C-Class,2019,Clean,58000,39500,New York
+Prime Auto Sales,Mercedes-Benz,C-Class,2019,Salvage,42000,28500,New York
+Prime Auto Sales,KIA,Optima,2020,Clean,24000,25500,New York
+Prime Auto Sales,KIA,Optima,2020,Clean,44000,23500,New York
+Prime Auto Sales,KIA,Optima,2020,Salvage,28000,16500,New York
+Prime Auto Sales,Hyundai,Sonata,2020,Clean,26000,24500,New York
+Prime Auto Sales,Hyundai,Sonata,2020,Salvage,30000,15500,New York
+Luxury Motors,Mercedes-Benz,E-Class,2020,Clean,25000,58500,New York
+Luxury Motors,Mercedes-Benz,E-Class,2020,Clean,45000,55500,New York
+Luxury Motors,Mercedes-Benz,E-Class,2020,Salvage,30000,38500,New York
+Luxury Motors,BMW,5 Series,2020,Clean,22000,54500,New York
+Luxury Motors,BMW,5 Series,2020,Clean,42000,51500,New York
+Luxury Motors,BMW,5 Series,2020,Salvage,28000,35500,New York
+Luxury Motors,Mercedes-Benz,GLC,2019,Clean,32000,45500,New York
+Luxury Motors,Mercedes-Benz,GLC,2020,Clean,22000,49800,New York
+Luxury Motors,Mercedes-Benz,GLC,2020,Salvage,28000,32800,New York
+Luxury Motors,Nissan,Rogue,2021,Clean,15000,31200,New York
+Luxury Motors,Nissan,Rogue,2021,Clean,35000,29200,New York
+Luxury Motors,Nissan,Rogue,2021,Salvage,20000,21200,New York
+Luxury Motors,Honda,CR-V,2019,Clean,35000,26500,New York
+Luxury Motors,Honda,CR-V,2020,Clean,25000,28800,New York
+Luxury Motors,Honda,CR-V,2020,Salvage,30000,18800,New York
+Coastal Auto,KIA,Sorento,2019,Clean,38000,28500,San Diego
+Coastal Auto,KIA,Sorento,2020,Clean,28000,31800,San Diego
+Coastal Auto,KIA,Sorento,2020,Salvage,32000,20800,San Diego
+Coastal Auto,Nissan,Kicks,2020,Clean,22000,21500,San Diego
+Coastal Auto,Nissan,Kicks,2021,Clean,12000,23200,San Diego
+Coastal Auto,Nissan,Kicks,2021,Salvage,15000,15200,San Diego
+Coastal Auto,Honda,Civic,2020,Clean,25000,24800,San Diego
+Coastal Auto,Honda,Civic,2021,Clean,15000,27200,San Diego
+Coastal Auto,Honda,Civic,2022,Salvage,10000,18500,San Diego
+Coastal Auto,BMW,X3,2019,Clean,32000,41500,San Diego
+Coastal Auto,BMW,X3,2020,Clean,22000,45800,San Diego
+Coastal Auto,BMW,X3,2020,Salvage,28000,29800,San Diego
+Coastal Auto,Hyundai,Tucson,2019,Clean,34000,25500,San Diego
+Coastal Auto,Hyundai,Tucson,2020,Clean,24000,28800,San Diego
+Coastal Auto,Hyundai,Tucson,2020,Salvage,28000,18800,San Diego
+Elite BMW,BMW,3 Series,2020,Clean,25000,42800,San Diego
+Elite BMW,BMW,3 Series,2021,Clean,15000,47200,San Diego
+Elite BMW,BMW,5 Series,2021,Clean,12000,59800,San Diego
+Elite BMW,BMW,5 Series,2022,Clean,5000,64200,San Diego
+Elite BMW,Mercedes-Benz,C-Class,2020,Clean,28000,46800,San Diego
+Elite BMW,Mercedes-Benz,C-Class,2021,Clean,18000,51200,San Diego
+Elite BMW,Mercedes-Benz,E-Class,2021,Clean,15000,63800,San Diego
+Elite BMW,Mercedes-Benz,E-Class,2022,Clean,8000,68200,San Diego
+Elite BMW,Nissan,Altima,2020,Clean,28000,26800,San Diego
+Elite BMW,Nissan,Altima,2021,Clean,18000,29200,San Diego
+Elite BMW,Honda,Accord,2021,Clean,18000,32800,San Diego
+Elite BMW,Honda,Accord,2022,Clean,8000,35200,San Diego
+Elite BMW,KIA,Forte,2020,Clean,26000,21800,San Diego
+Elite BMW,KIA,Forte,2021,Clean,16000,24200,San Diego
+Metro Hyundai,Hyundai,Elantra,2020,Clean,28000,20800,San Diego
+Metro Hyundai,Hyundai,Elantra,2021,Clean,18000,23200,San Diego
+Metro Hyundai,Hyundai,Elantra,2022,Salvage,14000,14800,San Diego
+Metro Hyundai,Hyundai,Sonata,2021,Clean,16000,27800,San Diego
+Metro Hyundai,Hyundai,Sonata,2022,Clean,8000,30200,San Diego
+Metro Hyundai,Hyundai,Tucson,2021,Clean,14000,32200,San Diego
+Metro Hyundai,Nissan,Rogue,2022,Clean,8000,33800,San Diego
+Metro Hyundai,Honda,CR-V,2021,Clean,15000,31500,San Diego
+Metro Hyundai,Honda,CR-V,2022,Salvage,12000,21500,San Diego
+Metro Hyundai,KIA,Optima,2021,Clean,14000,28800,San Diego
+Metro Hyundai,KIA,Optima,2022,Clean,6000,31200,San Diego
+Metro Hyundai,BMW,X3,2021,Clean,12000,50200,San Diego
+Metro Hyundai,Mercedes-Benz,GLC,2021,Clean,12000,54200,San Diego
+West Coast Motors,Nissan,Rogue,2020,Clean,24000,29200,Los Angeles
+West Coast Motors,Nissan,Rogue,2020,Salvage,28000,19200,Los Angeles
+West Coast Motors,Nissan,Rogue,2021,Clean,14000,32500,Los Angeles
+West Coast Motors,Nissan,Rogue,2021,Salvage,18000,22500,Los Angeles
+West Coast Motors,Honda,Civic,2019,Clean,34000,23200,Los Angeles
+West Coast Motors,Honda,Civic,2019,Salvage,38000,15200,Los Angeles
+West Coast Motors,Honda,Civic,2020,Clean,24000,25500,Los Angeles
+West Coast Motors,KIA,Forte,2019,Clean,38000,20200,Los Angeles
+West Coast Motors,KIA,Forte,2019,Salvage,42000,13200,Los Angeles
+West Coast Motors,KIA,Forte,2020,Clean,28000,22500,Los Angeles
+West Coast Motors,BMW,3 Series,2019,Clean,34000,39800,Los Angeles
+West Coast Motors,BMW,3 Series,2019,Salvage,38000,26800,Los Angeles
+West Coast Motors,Hyundai,Elantra,2019,Clean,36000,19200,Los Angeles
+West Coast Motors,Hyundai,Elantra,2019,Salvage,40000,12200,Los Angeles
+Golden State Honda,Honda,Civic,2021,Clean,14000,28200,Los Angeles
+Golden State Honda,Honda,Accord,2020,Clean,26000,30200,Los Angeles
+Golden State Honda,Honda,Accord,2020,Salvage,30000,20200,Los Angeles
+Golden State Honda,Honda,CR-V,2019,Clean,36000,27200,Los Angeles
+Golden State Honda,Honda,CR-V,2020,Clean,24000,29500,Los Angeles
+Golden State Honda,Honda,CR-V,2020,Salvage,28000,19500,Los Angeles
+Golden State Honda,Nissan,Altima,2019,Clean,36000,25200,Los Angeles
+Golden State Honda,Nissan,Altima,2020,Clean,26000,27500,Los Angeles
+Golden State Honda,Nissan,Altima,2020,Salvage,30000,17500,Los Angeles
+Golden State Honda,KIA,Optima,2020,Clean,26000,26200,Los Angeles
+Golden State Honda,KIA,Optima,2020,Salvage,30000,17200,Los Angeles
+Golden State Honda,Hyundai,Sonata,2020,Clean,24000,25200,Los Angeles
+Golden State Honda,Hyundai,Sonata,2020,Salvage,28000,16200,Los Angeles
+Golden State Honda,BMW,5 Series,2020,Clean,22000,56200,Los Angeles
+Golden State Honda,BMW,5 Series,2020,Salvage,26000,37200,Los Angeles
+Premium Benz,Mercedes-Benz,C-Class,2019,Clean,36000,43800,Los Angeles
+Premium Benz,Mercedes-Benz,C-Class,2020,Clean,26000,48200,Los Angeles
+Premium Benz,Mercedes-Benz,C-Class,2021,Clean,16000,52500,Los Angeles
+Premium Benz,Mercedes-Benz,E-Class,2020,Clean,24000,59800,Los Angeles
+Premium Benz,Mercedes-Benz,E-Class,2020,Salvage,28000,39800,Los Angeles
+Premium Benz,Mercedes-Benz,E-Class,2021,Clean,14000,65200,Los Angeles
+Premium Benz,Mercedes-Benz,GLC,2019,Clean,34000,46800,Los Angeles
+Premium Benz,Mercedes-Benz,GLC,2020,Clean,22000,51200,Los Angeles
+Premium Benz,Mercedes-Benz,GLC,2020,Salvage,26000,34200,Los Angeles
+Premium Benz,BMW,3 Series,2020,Clean,24000,44200,Los Angeles
+Premium Benz,BMW,3 Series,2021,Clean,14000,48500,Los Angeles
+Premium Benz,BMW,5 Series,2021,Clean,12000,61500,Los Angeles
+Premium Benz,BMW,5 Series,2022,Clean,6000,65800,Los Angeles
+Premium Benz,Nissan,Kicks,2020,Clean,22000,22200,Los Angeles
+Premium Benz,Nissan,Kicks,2021,Clean,12000,24500,Los Angeles
+Premium Benz,Nissan,Kicks,2021,Salvage,16000,16500,Los Angeles
+Pacific KIA,KIA,Forte,2021,Clean,18000,25200,San Francisco
+Pacific KIA,KIA,Optima,2021,Clean,16000,29500,San Francisco
+Pacific KIA,KIA,Optima,2022,Clean,8000,32800,San Francisco
+Pacific KIA,KIA,Sorento,2019,Clean,36000,29200,San Francisco
+Pacific KIA,KIA,Sorento,2020,Clean,26000,32500,San Francisco
+Pacific KIA,KIA,Sorento,2020,Salvage,30000,21500,San Francisco
+Pacific KIA,Nissan,Altima,2021,Clean,16000,30200,San Francisco
+Pacific KIA,Honda,Civic,2021,Clean,14000,28200,San Francisco
+Pacific KIA,Honda,Accord,2021,Clean,16000,33500,San Francisco
+Pacific KIA,Honda,Accord,2022,Clean,8000,36800,San Francisco
+Pacific KIA,BMW,X3,2019,Clean,32000,42800,San Francisco
+Pacific KIA,BMW,X3,2020,Clean,22000,47200,San Francisco
+Pacific KIA,BMW,X3,2020,Salvage,26000,31200,San Francisco
+Pacific KIA,Hyundai,Elantra,2020,Clean,26000,21500,San Francisco
+Pacific KIA,Hyundai,Elantra,2021,Clean,16000,24500,San Francisco
+Bay Area BMW,BMW,3 Series,2021,Clean,14000,48500,San Francisco
+Bay Area BMW,BMW,5 Series,2021,Clean,12000,61500,San Francisco
+Bay Area BMW,BMW,5 Series,2022,Clean,6000,65800,San Francisco
+Bay Area BMW,BMW,X3,2021,Clean,12000,51500,San Francisco
+Bay Area BMW,Mercedes-Benz,C-Class,2019,Clean,36000,43800,San Francisco
+Bay Area BMW,Mercedes-Benz,C-Class,2020,Clean,26000,48200,San Francisco
+Bay Area BMW,Mercedes-Benz,E-Class,2020,Clean,24000,59800,San Francisco
+Bay Area BMW,Mercedes-Benz,E-Class,2021,Clean,14000,65200,San Francisco
+Bay Area BMW,Mercedes-Benz,GLC,2019,Clean,34000,46800,San Francisco
+Bay Area BMW,Mercedes-Benz,GLC,2020,Clean,22000,51200,San Francisco
+Bay Area BMW,Nissan,Kicks,2022,Clean,6000,26800,San Francisco
+Bay Area BMW,Honda,CR-V,2021,Clean,14000,32800,San Francisco
+Bay Area BMW,KIA,Sorento,2021,Clean,16000,36800,San Francisco
+Bay Area BMW,Hyundai,Tucson,2019,Clean,34000,26200,San Francisco
+SF Hyundai,Hyundai,Sonata,2021,Clean,14000,28500,San Francisco
+SF Hyundai,Hyundai,Sonata,2022,Clean,6000,31800,San Francisco
+SF Hyundai,Hyundai,Tucson,2020,Clean,24000,29500,San Francisco
+SF Hyundai,Hyundai,Tucson,2020,Salvage,28000,19500,San Francisco
+SF Hyundai,Hyundai,Tucson,2021,Clean,14000,33500,San Francisco
+SF Hyundai,Nissan,Rogue,2020,Clean,24000,29200,San Francisco
+SF Hyundai,Nissan,Rogue,2020,Salvage,28000,19200,San Francisco
+SF Hyundai,Nissan,Rogue,2021,Clean,14000,32500,San Francisco
+SF Hyundai,Honda,Civic,2020,Clean,24000,25500,San Francisco
+SF Hyundai,Honda,Civic,2021,Clean,14000,28200,San Francisco
+SF Hyundai,KIA,Forte,2020,Clean,28000,22500,San Francisco
+SF Hyundai,KIA,Optima,2020,Clean,26000,26200,San Francisco
+SF Hyundai,KIA,Optima,2020,Salvage,30000,17200,San Francisco
+SF Hyundai,BMW,3 Series,2020,Clean,24000,44200,San Francisco
+SF Hyundai,Mercedes-Benz,C-Class,2021,Clean,16000,52500,San Francisco

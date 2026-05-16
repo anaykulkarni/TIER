@@ -1,0 +1,203 @@
+Location,Date,Temperature,Description
+New York,2024-10-23,58,Cloudy
+New York,2023-01-19,32,Snowy
+New York,2019-02-18,28,Freezing
+New York,2022-06-10,75,Sunny
+New York,2025-05-29,68,Rainy
+New York,2021-08-15,82,Humid
+New York,2024-03-07,45,Windy
+New York,2020-11-22,41,Overcast
+New York,2023-09-14,71,Clear
+New York,2025-01-08,35,Snowy
+New York,2022-12-03,38,Foggy
+New York,2024-07-11,85,Sunny
+New York,2021-04-26,62,Mild
+New York,2023-06-18,78,Thunderstorms
+New York,2025-03-12,52,Drizzly
+San Diego,2024-10-23,72,Sunny
+San Diego,2023-01-19,65,Clear
+San Diego,2019-02-18,68,Mild
+San Diego,2022-06-10,75,Hazy
+San Diego,2025-05-29,71,Overcast
+San Diego,2025-05-30,70,Sunny
+San Diego,2021-08-15,79,Sunny
+San Diego,2024-03-07,69,Breezy
+San Diego,2020-11-22,73,Clear
+San Diego,2023-09-14,76,Sunny
+San Diego,2025-01-08,63,Cloudy
+San Diego,2022-12-03,67,Mild
+San Diego,2024-07-11,78,Sunny
+San Diego,2021-04-26,70,Hazy
+San Diego,2023-06-18,74,Clear
+San Diego,2025-03-12,68,Foggy
+Los Angeles,2024-10-23,75,Sunny
+Los Angeles,2023-01-19,62,Hazy
+Los Angeles,2019-02-18,65,Smoggy
+Los Angeles,2022-06-10,78,Clear
+Los Angeles,2025-05-29,73,Overcast
+Los Angeles,2025-05-30,63,Rainy
+Los Angeles,2021-08-15,83,Hot
+Los Angeles,2024-03-07,68,Mild
+Los Angeles,2020-11-22,70,Sunny
+Los Angeles,2023-09-14,81,Clear
+Los Angeles,2025-01-08,59,Cloudy
+Los Angeles,2022-12-03,64,Hazy
+Los Angeles,2024-07-11,86,Sunny
+Los Angeles,2021-04-26,72,Breezy
+Los Angeles,2023-06-18,79,Clear
+Los Angeles,2025-03-12,67,Foggy
+San Francisco,2024-10-23,63,Foggy
+San Francisco,2023-01-19,54,Rainy
+San Francisco,2019-02-18,57,Drizzly
+San Francisco,2022-06-10,66,Overcast
+San Francisco,2025-05-29,61,Cloudy
+San Francisco,2021-08-15,68,Cool
+San Francisco,2024-03-07,58,Windy
+San Francisco,2020-11-22,60,Foggy
+San Francisco,2023-09-14,70,Clear
+San Francisco,2025-01-08,52,Rainy
+San Francisco,2022-12-03,55,Overcast
+San Francisco,2024-07-11,72,Sunny
+San Francisco,2021-04-26,62,Breezy
+San Francisco,2023-06-18,67,Mild
+San Francisco,2025-03-12,59,Foggy
+Chicago,2024-10-23,52,Windy
+Chicago,2023-01-19,18,Freezing
+Chicago,2019-02-18,22,Snowy
+Chicago,2022-06-10,73,Sunny
+Chicago,2025-05-29,65,Rainy
+Chicago,2021-08-15,79,Humid
+Chicago,2024-03-07,41,Cold
+Chicago,2020-11-22,35,Overcast
+Chicago,2023-09-14,68,Clear
+Chicago,2025-01-08,25,Snowy
+Chicago,2022-12-03,32,Icy
+Chicago,2024-07-11,81,Hot
+Chicago,2021-04-26,58,Breezy
+Chicago,2023-06-18,76,Thunderstorms
+Chicago,2025-03-12,47,Cloudy
+Miami,2024-10-23,82,Humid
+Miami,2023-01-19,76,Sunny
+Miami,2019-02-18,78,Warm
+Miami,2022-06-10,87,Hot
+Miami,2025-05-29,84,Thunderstorms
+Miami,2021-08-15,91,Sweltering
+Miami,2024-03-07,79,Breezy
+Miami,2020-11-22,81,Sunny
+Miami,2023-09-14,88,Humid
+Miami,2025-01-08,74,Mild
+Miami,2022-12-03,77,Clear
+Miami,2024-07-11,93,Hot
+Miami,2021-04-26,83,Sunny
+Miami,2023-06-18,89,Thunderstorms
+Miami,2025-03-12,80,Warm
+Seattle,2024-10-23,56,Rainy
+Seattle,2023-01-19,42,Drizzly
+Seattle,2019-02-18,45,Overcast
+Seattle,2022-06-10,68,Mild
+Seattle,2025-05-29,62,Cloudy
+Seattle,2021-08-15,75,Sunny
+Seattle,2024-03-07,49,Rainy
+Seattle,2020-11-22,51,Overcast
+Seattle,2023-09-14,71,Clear
+Seattle,2025-01-08,44,Drizzly
+Seattle,2022-12-03,47,Foggy
+Seattle,2024-07-11,78,Sunny
+Seattle,2021-04-26,59,Mild
+Seattle,2023-06-18,73,Clear
+Seattle,2025-03-12,53,Rainy
+Austin,2024-10-23,76,Sunny
+Austin,2023-01-19,58,Mild
+Austin,2019-02-18,62,Clear
+Austin,2022-06-10,89,Hot
+Austin,2025-05-29,81,Thunderstorms
+Austin,2021-08-15,97,Scorching
+Austin,2024-03-07,71,Breezy
+Austin,2020-11-22,68,Sunny
+Austin,2023-09-14,85,Clear
+Austin,2025-01-08,55,Cool
+Austin,2022-12-03,63,Mild
+Austin,2024-07-11,94,Hot
+Austin,2021-04-26,78,Sunny
+Austin,2023-06-18,91,Thunderstorms
+Austin,2025-03-12,74,Warm
+Boston,2024-10-23,54,Crisp
+Boston,2023-01-19,29,Snowy
+Boston,2019-02-18,25,Freezing
+Boston,2022-06-10,72,Sunny
+Boston,2025-05-29,66,Rainy
+Boston,2021-08-15,79,Humid
+Boston,2024-03-07,43,Windy
+Boston,2020-11-22,39,Overcast
+Boston,2023-09-14,69,Clear
+Boston,2025-01-08,31,Icy
+Boston,2022-12-03,36,Cold
+Boston,2024-07-11,83,Sunny
+Boston,2021-04-26,61,Mild
+Boston,2023-06-18,77,Thunderstorms
+Boston,2025-03-12,50,Cloudy
+Denver,2024-10-23,65,Sunny
+Denver,2023-01-19,38,Snowy
+Denver,2019-02-18,41,Cold
+Denver,2022-06-10,78,Clear
+Denver,2025-05-29,72,Thunderstorms
+Denver,2021-08-15,86,Hot
+Denver,2024-03-07,52,Windy
+Denver,2020-11-22,48,Overcast
+Denver,2023-09-14,75,Sunny
+Denver,2025-01-08,35,Snowy
+Denver,2022-12-03,42,Cold
+Denver,2024-07-11,89,Sunny
+Denver,2021-04-26,64,Mild
+Denver,2023-06-18,81,Clear
+Denver,2025-03-12,58,Breezy
+London,2024-03-23,58,Cloudy
+Paris,2024-03-31,46,Hazy
+Chicago,2024-03-27,54,Snowy
+Los Angeles,2024-03-22,52,Sunny
+Paris,2024-03-24,77,Cloudy
+New York,2024-04-04,63,Thunderstorms
+Beijing,2024-04-03,76,Snowy
+London,2024-03-26,88,Sunny
+Beijing,2024-03-24,69,Overcast
+Sydney,2024-03-25,45,Foggy
+Los Angeles,2024-03-20,86,Hazy
+New York,2024-03-22,41,Overcast
+Tokyo,2024-04-04,76,Overcast
+Berlin,2024-03-21,80,Foggy
+Paris,2024-03-26,65,Windy
+Sydney,2024-03-27,73,Snowy
+Beijing,2024-03-27,61,Windy
+Sydney,2024-03-31,99,Rainy
+Mumbai,2024-04-01,43,Thunderstorms
+Tokyo,2024-03-26,59,Windy
+Berlin,2024-03-31,64,Sunny
+Los Angeles,2024-03-21,99,Windy
+Beijing,2024-03-30,56,Cloudy
+Chicago,2024-04-04,81,Sunny
+Sydney,2024-03-28,69,Partly Cloudy
+New York,2024-03-30,89,Cloudy
+Chicago,2024-03-31,35,Snowy
+Chicago,2024-03-27,86,Windy
+Chicago,2024-03-28,88,Partly Cloudy
+Sydney,2024-03-22,93,Sunny
+New York,2024-04-04,31,Snowy
+Los Angeles,2024-03-29,43,Hazy
+Chicago,2024-03-22,34,Partly Cloudy
+Tokyo,2024-03-29,35,Foggy
+Berlin,2024-03-30,46,Overcast
+Los Angeles,2024-04-01,79,Cloudy
+Berlin,2024-03-21,73,Rainy
+Mumbai,2024-03-23,99,Foggy
+Sydney,2024-04-04,31,Thunderstorms
+Tokyo,2024-03-23,49,Sunny
+New York,2024-03-25,72,Snowy
+Berlin,2024-03-29,96,Overcast
+New York,2024-03-25,84,Partly Cloudy
+Tokyo,2024-03-22,31,Sunny
+Sydney,2024-04-03,43,Thunderstorms
+Beijing,2024-03-25,99,Overcast
+New York,2024-03-28,42,Thunderstorms
+Tokyo,2024-03-22,90,Snowy
+Paris,2024-03-28,61,Snowy
+Beijing,2024-03-30,75,Cloudy

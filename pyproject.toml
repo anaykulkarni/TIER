@@ -1,0 +1,86 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tier"
+version = "0.1.0"
+description = "TIER: Trajectory-Invariant Execution Rewards for Multi-Step Tool Composition"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Anay Kulkarni", email = "ankulkarni@ucsd.edu" },
+    { name = "ChiaEn Lu", email = "allenlu@ucsd.edu" },
+    { name = "Dheeraj Mekala" },
+    { name = "Jayanth Srinivasa" },
+    { name = "Gaowen Liu" },
+    { name = "Jingbo Shang" },
+]
+maintainers = [
+    { name = "Anay Kulkarni", email = "ankulkarni@ucsd.edu" },
+    { name = "ChiaEn Lu", email = "allenlu@ucsd.edu" },
+]
+keywords = [
+    "reinforcement-learning",
+    "tool-use",
+    "large-language-models",
+    "function-calling",
+    "grpo",
+    "reward-modeling",
+]
+classifiers = [
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+    "transformers==4.56.2",
+    "trl",
+    "peft",
+    "bitsandbytes",
+    "deepspeed",
+    "accelerate",
+    "datasets",
+    "pandas",
+    "numpy",
+    "lxml",
+    "rapidfuzz",
+    "tensorboard",
+    "huggingface-hub[cli]",
+]
+
+[project.optional-dependencies]
+cuda = [
+    "vllm==0.10.2",
+    "flash-attn",
+    "flashinfer-python",
+    "flashinfer-cubin",
+]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[project.scripts]
+tier-train = "tier.cli.train:main"
+tier-eval = "tier.cli.eval:main"
+tier-convert = "tier.cli.convert:main"
+
+[project.urls]
+Homepage = "https://github.com/anaykulkarni/TIER.git"
+# Paper = "arxiv link"
+
+[tool.setuptools]
+package-dir = { "" = "src" }
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["tier*"]
+
+[tool.setuptools.package-data]
+"tier.prompts" = ["*.txt", "*.json", "instructions/*.txt"]
+"tier.environment" = ["api_data/*.csv"]

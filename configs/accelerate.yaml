@@ -1,0 +1,20 @@
+# Accelerate launch configuration used by every script under ``scripts/``.
+# Hands off the heavy-lifting to DeepSpeed (ZeRO-3 with CPU offload, see
+# ``configs/deepspeed.json``).
+distributed_type: DEEPSPEED
+
+deepspeed_config:
+  # Path is resolved relative to the working directory at launch time.
+  # The training scripts ``cd`` into the repo root before invoking
+  # ``accelerate launch``, so this relative path works from there.
+  deepspeed_config_file: ./configs/deepspeed.json
+  # ZeRO-3 init lets HuggingFace shard weights at construction time.
+  zero3_init_flag: true
+
+# Number of accelerators to use.  Override at the command line with
+# ``accelerate launch --num_processes <N> ...`` for different hardware.
+num_processes: 2
+
+# Mixed precision is set in deepspeed.json (``"bf16": {"enabled": true}``);
+# keep it commented out here to avoid double specification.
+# mixed_precision: "bf16"

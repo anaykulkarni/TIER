@@ -1,0 +1,50 @@
+from_unit,to_unit,rate
+km,mi,0.621371
+mi,km,1.60934
+kg,lb,2.20462
+lb,kg,0.453592
+L,gal,0.264172
+gal,L,3.78541
+C,F,1.8
+m,ft,3.28084
+ft,m,0.3048
+g,oz,0.035274
+oz,g,28.3495
+cm,in,0.393701
+in,cm,2.54
+m/s,km/h,3.6
+km/h,m/s,0.277778
+mL,fl oz,0.033814
+fl oz,mL,29.5735
+kW,hp,1.34102
+hp,kW,0.7457
+J,cal,0.239006
+cal,J,4.184
+bar,psi,14.5038
+psi,bar,0.0689476
+Pa,atm,9.86923e-06
+atm,Pa,101325.0
+kcal,kJ,4.184
+kJ,kcal,0.239006
+mm,in,0.0393701
+in,mm,25.4
+yard,m,0.9144
+m,yard,1.09361
+mi,ft,5280.0
+ft,mi,0.000189394
+acre,sq m,4046.86
+sq m,acre,0.000247105
+hr,min,60.0
+min,sec,60.0
+sec,ms,1000.0
+day,hr,24.0
+week,day,7.0
+month,day,30.0
+year,day,365.0
+bit,byte,0.125
+byte,bit,8.0
+MB,KB,1024.0
+GB,MB,1024.0
+TB,GB,1024.0
+cm,mm,10.0
+m,cm,100.0

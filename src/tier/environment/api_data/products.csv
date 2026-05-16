@@ -1,0 +1,16 @@
+sku,name,brand,price,color,size,in_stock,description,category
+SKU001,Classic T-Shirt,Nike,19.99,White,M,true,Comfortable cotton t-shirt perfect for everyday wear,Clothing - Tops
+SKU002,Premium Denim Jeans,Levis,79.99,Blue,32,true,High-quality denim jeans with classic fit,Clothing - Bottoms
+SKU003,Running Sneakers,Brooks,129.99,Black,10,true,Lightweight running shoes with advanced cushioning,Footwear
+SKU004,Leather Wallet,Prada,45,Brown,One Size,true,Genuine leather wallet with multiple card slots,Accessories
+SKU005,Wireless Headphones,Bose,199.99,Black,One Size,false,Premium wireless headphones with noise cancellation,Electronics
+SKU006,Box Logo Hoodie,Supreme,55,Gray,L,true,Soft cotton hoodie with front pocket,Clothing - Tops
+SKU007,Formal Dress Shirt,Gucci,35.99,White,L,true,Professional dress shirt for business occasions,Clothing - Tops
+SKU008,Athletic Shorts,Adidas,25.99,Navy,M,true,Moisture-wicking shorts for workouts,Clothing - Bottoms
+SKU009,Winter Jacket,Patagonia,149.99,Green,XL,true,Waterproof winter jacket with insulation,Clothing - Outerwear
+SKU010,Canvas Backpack,TravelPro,69.99,Black,One Size,true,Durable canvas backpack for daily use,Bags
+SKU011,Polo Shirt,Ralph Lauren,29.99,Red,S,true,Classic polo shirt with collar,Clothing - Tops
+SKU012,Dress Shoes,Hilfiger,89.99,Black,9,true,Elegant leather dress shoes for formal events,Footwear
+SKU013,Baseball Cap,New Era,15.99,Blue,One Size,true,Adjustable baseball cap with team logo,Accessories
+SKU014,Yoga Pants,Alo,39.99,Black,S,true,Stretchy yoga pants for exercise and comfort,Clothing - Bottoms
+SKU015,Smartwatch,Apple,299.99,Silver,52mm,true,Advanced smartwatch with fitness tracking,Electronics

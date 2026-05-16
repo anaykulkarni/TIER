@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ============================================================
+# TIER project-specific ignores
+# ============================================================
+
+# Training and evaluation outputs (checkpoints, logs, eval JSONs).
+outputs/
+runs/
+logs/
+*.log
+wandb/
+
+# DeepSpeed / accelerate checkpoint staging artefacts.
+*.deepspeed
+*.ckpt
+*.safetensors
+
+# Local experiment scratch.
+scratch/
+tmp/
+.tier_cache/
+
+# Editor / OS noise.
+.DS_Store
+Thumbs.db

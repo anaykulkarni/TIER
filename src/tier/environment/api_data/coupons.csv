@@ -1,0 +1,9 @@
+code,discount_percent,description,active,min_amount
+SAVE10,10,10% off your entire order,true,50.00
+WELCOME15,15,15% off for new customers,true,75.00
+SUMMER20,20,Summer sale - 20% off,true,100.00
+EXPIRED5,5,Expired coupon,false,25.00
+FREESHIP,0,Free shipping on orders over $50,true,50.00
+VIP25,25,VIP customer exclusive discount,true,150.00
+STUDENT10,10,Student discount,true,30.00
+HOLIDAY30,30,Holiday special discount,true,200.00

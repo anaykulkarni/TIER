@@ -1,0 +1,191 @@
+Location,Date,Quality Value,Category
+New York,2024-10-23,68,Moderate
+New York,2023-01-19,45,Good
+New York,2019-02-18,82,Moderate
+New York,2022-06-10,95,Moderate
+New York,2025-05-29,112,Unhealthy for Sensitive Groups
+New York,2021-08-15,135,Unhealthy for Sensitive Groups
+New York,2024-03-07,58,Moderate
+New York,2020-11-22,73,Moderate
+New York,2023-09-14,89,Moderate
+New York,2025-01-08,52,Moderate
+New York,2022-12-03,76,Moderate
+New York,2024-07-11,118,Unhealthy for Sensitive Groups
+New York,2021-04-26,61,Moderate
+New York,2023-06-18,102,Unhealthy for Sensitive Groups
+New York,2025-03-12,67,Moderate
+San Diego,2024-10-23,72,Moderate
+San Diego,2023-01-19,38,Good
+San Diego,2019-02-18,41,Good
+San Diego,2022-06-10,85,Moderate
+San Diego,2025-05-29,79,Moderate
+San Diego,2021-08-15,98,Moderate
+San Diego,2024-03-07,55,Moderate
+San Diego,2020-11-22,43,Good
+San Diego,2023-09-14,88,Moderate
+San Diego,2025-01-08,49,Good
+San Diego,2022-12-03,62,Moderate
+San Diego,2024-07-11,105,Unhealthy for Sensitive Groups
+San Diego,2021-04-26,71,Moderate
+San Diego,2023-06-18,91,Moderate
+San Diego,2025-03-12,56,Moderate
+Los Angeles,2024-10-23,125,Unhealthy for Sensitive Groups
+Los Angeles,2023-01-19,89,Moderate
+Los Angeles,2019-02-18,118,Unhealthy for Sensitive Groups
+Los Angeles,2022-06-10,142,Unhealthy for Sensitive Groups
+Los Angeles,2025-05-29,108,Unhealthy for Sensitive Groups
+Los Angeles,2021-08-15,158,Unhealthy
+Los Angeles,2024-03-07,95,Moderate
+Los Angeles,2020-11-22,132,Unhealthy for Sensitive Groups
+Los Angeles,2023-09-14,147,Unhealthy for Sensitive Groups
+Los Angeles,2025-01-08,82,Moderate
+Los Angeles,2022-12-03,97,Moderate
+Los Angeles,2024-07-11,165,Unhealthy
+Los Angeles,2021-04-26,113,Unhealthy for Sensitive Groups
+Los Angeles,2023-06-18,151,Unhealthy
+Los Angeles,2025-03-12,104,Unhealthy for Sensitive Groups
+San Francisco,2024-10-23,59,Moderate
+San Francisco,2023-01-19,47,Good
+San Francisco,2019-02-18,52,Moderate
+San Francisco,2022-06-10,74,Moderate
+San Francisco,2025-05-29,66,Moderate
+San Francisco,2021-08-15,81,Moderate
+San Francisco,2024-03-07,63,Moderate
+San Francisco,2020-11-22,58,Moderate
+San Francisco,2023-09-14,77,Moderate
+San Francisco,2025-01-08,44,Good
+San Francisco,2022-12-03,69,Moderate
+San Francisco,2024-07-11,92,Moderate
+San Francisco,2021-04-26,71,Moderate
+San Francisco,2023-06-18,86,Moderate
+San Francisco,2025-03-12,61,Moderate
+Chicago,2024-10-23,78,Moderate
+Chicago,2023-01-19,65,Moderate
+Chicago,2019-02-18,71,Moderate
+Chicago,2022-06-10,94,Moderate
+Chicago,2025-05-29,89,Moderate
+Chicago,2021-08-15,122,Unhealthy for Sensitive Groups
+Chicago,2024-03-07,58,Moderate
+Chicago,2020-11-22,83,Moderate
+Chicago,2023-09-14,76,Moderate
+Chicago,2025-01-08,69,Moderate
+Chicago,2022-12-03,87,Moderate
+Chicago,2024-07-11,115,Unhealthy for Sensitive Groups
+Chicago,2021-04-26,64,Moderate
+Chicago,2023-06-18,108,Unhealthy for Sensitive Groups
+Chicago,2025-03-12,72,Moderate
+Miami,2024-10-23,85,Moderate
+Miami,2023-01-19,58,Moderate
+Miami,2019-02-18,63,Moderate
+Miami,2022-06-10,92,Moderate
+Miami,2025-05-29,97,Moderate
+Miami,2021-08-15,118,Unhealthy for Sensitive Groups
+Miami,2024-03-07,71,Moderate
+Miami,2020-11-22,79,Moderate
+Miami,2023-09-14,105,Unhealthy for Sensitive Groups
+Miami,2025-01-08,54,Moderate
+Miami,2022-12-03,67,Moderate
+Miami,2024-07-11,126,Unhealthy for Sensitive Groups
+Miami,2021-04-26,88,Moderate
+Miami,2023-06-18,112,Unhealthy for Sensitive Groups
+Miami,2025-03-12,76,Moderate
+Seattle,2024-10-23,51,Moderate
+Seattle,2023-01-19,39,Good
+Seattle,2019-02-18,44,Good
+Seattle,2022-06-10,68,Moderate
+Seattle,2025-05-29,56,Moderate
+Seattle,2021-08-15,73,Moderate
+Seattle,2024-03-07,48,Good
+Seattle,2020-11-22,62,Moderate
+Seattle,2023-09-14,75,Moderate
+Seattle,2025-01-08,42,Good
+Seattle,2022-12-03,59,Moderate
+Seattle,2024-07-11,87,Moderate
+Seattle,2021-04-26,65,Moderate
+Seattle,2023-06-18,81,Moderate
+Seattle,2025-03-12,53,Moderate
+Austin,2024-10-23,91,Moderate
+Austin,2023-01-19,67,Moderate
+Austin,2019-02-18,72,Moderate
+Austin,2022-06-10,108,Unhealthy for Sensitive Groups
+Austin,2025-05-29,95,Moderate
+Austin,2021-08-15,134,Unhealthy for Sensitive Groups
+Austin,2024-03-07,78,Moderate
+Austin,2020-11-22,83,Moderate
+Austin,2023-09-14,118,Unhealthy for Sensitive Groups
+Austin,2025-01-08,61,Moderate
+Austin,2022-12-03,74,Moderate
+Austin,2024-07-11,142,Unhealthy for Sensitive Groups
+Austin,2021-04-26,86,Moderate
+Austin,2023-06-18,125,Unhealthy for Sensitive Groups
+Austin,2025-03-12,79,Moderate
+Boston,2024-10-23,64,Moderate
+Boston,2023-01-19,48,Good
+Boston,2019-02-18,56,Moderate
+Boston,2022-06-10,81,Moderate
+Boston,2025-05-29,73,Moderate
+Boston,2021-08-15,97,Moderate
+Boston,2024-03-07,59,Moderate
+Boston,2020-11-22,71,Moderate
+Boston,2023-09-14,85,Moderate
+Boston,2025-01-08,52,Moderate
+Boston,2022-12-03,68,Moderate
+Boston,2024-07-11,103,Unhealthy for Sensitive Groups
+Boston,2021-04-26,76,Moderate
+Boston,2023-06-18,94,Moderate
+Boston,2025-03-12,62,Moderate
+Denver,2024-10-23,73,Moderate
+Denver,2023-01-19,55,Moderate
+Denver,2019-02-18,61,Moderate
+Denver,2022-06-10,89,Moderate
+Denver,2025-05-29,84,Moderate
+Denver,2021-08-15,115,Unhealthy for Sensitive Groups
+Denver,2024-03-07,67,Moderate
+Denver,2020-11-22,79,Moderate
+Denver,2023-09-14,92,Moderate
+Denver,2025-01-08,58,Moderate
+Denver,2022-12-03,72,Moderate
+Denver,2024-07-11,128,Unhealthy for Sensitive Groups
+Denver,2021-04-26,81,Moderate
+Denver,2023-06-18,106,Unhealthy for Sensitive Groups
+Denver,2025-03-12,69,Moderate
+Phoenix,2024-03-30,101,Unhealthy for Sensitive Groups
+San Antonio,2024-03-29,71,Moderate
+Dallas,2024-03-29,251,Very Unhealthy
+San Jose,2024-03-25,201,Very Unhealthy
+San Antonio,2024-03-24,194,Unhealthy
+Philadelphia,2024-03-28,6,Good
+San Diego,2024-03-25,150,Unhealthy for Sensitive Groups
+San Diego,2024-03-28,367,Hazardous
+Phoenix,2024-03-21,210,Very Unhealthy
+San Diego,2024-03-30,217,Very Unhealthy
+San Jose,2024-03-26,157,Unhealthy
+Chicago,2024-03-29,143,Unhealthy for Sensitive Groups
+San Jose,2024-03-28,222,Very Unhealthy
+San Jose,2024-03-23,179,Unhealthy
+San Diego,2024-03-25,334,Hazardous
+Phoenix,2024-03-28,235,Very Unhealthy
+Phoenix,2024-03-28,172,Unhealthy
+San Antonio,2024-03-22,161,Unhealthy
+Houston,2024-03-30,54,Moderate
+Chicago,2024-03-21,11,Good
+Los Angeles,2024-03-21,52,Moderate
+New York,2024-03-28,31,Good
+San Antonio,2024-03-29,47,Good
+Chicago,2024-03-23,25,Good
+Philadelphia,2024-03-25,406,Hazardous
+Houston,2024-03-21,152,Unhealthy
+San Antonio,2024-03-30,294,Very Unhealthy
+San Diego,2024-03-22,215,Very Unhealthy
+San Diego,2024-03-28,78,Moderate
+Philadelphia,2024-03-28,44,Good
+San Antonio,2024-03-21,7,Good
+Los Angeles,2024-03-22,223,Very Unhealthy
+Los Angeles,2024-03-27,178,Unhealthy
+Los Angeles,2024-03-26,177,Unhealthy
+Chicago,2024-03-23,137,Unhealthy for Sensitive Groups
+Dallas,2024-03-20,8,Good
+Chicago,2024-03-22,429,Hazardous
+Houston,2024-03-20,144,Unhealthy for Sensitive Groups
+Houston,2024-03-20,467,Hazardous
+Chicago,2024-03-27,128,Unhealthy for Sensitive Groups

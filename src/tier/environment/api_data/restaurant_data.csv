@@ -1,0 +1,171 @@
+Restaurant Name,Ratings,Cuisine,Opening Hours,Location
+Sakura Blossom,4.5,Japanese,11:00 AM - 10:00 PM,New York
+Ramen Zen,4.2,Japanese,12:00 PM - 11:00 PM,San Diego
+Tokyo Dreams,4.7,Japanese,5:00 PM - 12:00 AM,Los Angeles
+Le Petit Jardin,4.8,French,6:00 PM - 11:00 PM,San Francisco
+Bistro Lumière,4.3,French,5:30 PM - 10:30 PM,New York
+Café de la Seine,4.6,French,11:00 AM - 10:00 PM,San Diego
+Nonna's Kitchen,4.4,Italian,4:00 PM - 11:00 PM,Los Angeles
+Trattoria Roma,4.1,Italian,12:00 PM - 10:00 PM,San Francisco
+Villa Toscana,4.5,Italian,5:00 PM - 10:30 PM,New York
+Spice Route,4.3,Indian,11:30 AM - 10:00 PM,San Diego
+Maharaja Palace,4.6,Indian,12:00 PM - 11:00 PM,Los Angeles
+Curry Garden,4.2,Indian,5:00 PM - 10:00 PM,San Francisco
+Dragon Phoenix,4.4,Chinese,11:00 AM - 10:30 PM,New York
+Golden Lotus,4.7,Chinese,12:00 PM - 11:00 PM,San Diego
+Beijing House,4.3,Chinese,4:30 PM - 10:00 PM,Los Angeles
+Sushi Koi,4.8,Japanese,6:00 PM - 12:00 AM,New York
+Wasabi Garden,4.5,Japanese,5:00 PM - 11:00 PM,Los Angeles
+Edo Kitchen,4.3,Japanese,12:00 PM - 9:30 PM,San Francisco
+Le Château,4.9,French,7:00 PM - 11:00 PM,New York
+Provence Café,4.4,French,10:00 AM - 10:00 PM,Los Angeles
+Bordeaux Bistro,4.6,French,6:00 PM - 10:30 PM,San Francisco
+Bella Vista,4.2,Italian,11:30 AM - 10:00 PM,New York
+Amore Mio,4.7,Italian,5:00 PM - 11:00 PM,San Diego
+Dolce Vita,4.5,Italian,4:00 PM - 10:30 PM,Los Angeles
+Palazzo Italiano,4.3,Italian,6:00 PM - 10:00 PM,San Francisco
+Bombay Express,4.1,Indian,11:00 AM - 10:30 PM,New York
+Taj Mahal,4.8,Indian,12:00 PM - 11:00 PM,San Francisco
+Spice Bazaar,4.4,Indian,5:30 PM - 10:00 PM,New York
+Saffron Kitchen,4.6,Indian,11:30 AM - 10:30 PM,Los Angeles
+Great Wall,4.5,Chinese,12:00 PM - 10:00 PM,San Francisco
+Jade Palace,4.2,Chinese,11:00 AM - 11:00 PM,New York
+Lucky Dragon,4.7,Chinese,4:00 PM - 10:30 PM,Los Angeles
+Mandarin Garden,4.4,Chinese,12:30 PM - 9:30 PM,San Diego
+Hibachi Master,4.6,Japanese,5:00 PM - 11:00 PM,San Diego
+Brasserie Marcel,4.3,French,9:00 AM - 10:00 PM,San Diego
+L'Atelier,4.8,French,6:30 PM - 11:30 PM,Los Angeles
+Marco's Pizzeria,4.1,Italian,11:00 AM - 11:00 PM,San Diego
+Venetian Nights,4.4,Italian,5:30 PM - 10:00 PM,San Francisco
+Royal India,4.5,Indian,12:00 PM - 10:00 PM,San Diego
+Emperor's Garden,4.3,Chinese,11:30 AM - 10:30 PM,San Francisco
+Sakura Garden,4.4,Japanese,5:00 PM - 10:30 PM,Chicago
+Nippon House,4.6,Japanese,12:00 PM - 11:00 PM,Chicago
+Zen Sushi,4.8,Japanese,6:00 PM - 12:00 AM,Chicago
+Kyoto Palace,4.3,Japanese,11:30 AM - 10:00 PM,Chicago
+Le Bernardin Chicago,4.9,French,6:30 PM - 11:00 PM,Chicago
+Chez Laurent,4.5,French,5:30 PM - 10:30 PM,Chicago
+Café Montmartre,4.7,French,10:00 AM - 10:00 PM,Chicago
+Brasserie Jolie,4.4,French,11:00 AM - 11:00 PM,Chicago
+Nonna Rosa,4.6,Italian,4:30 PM - 11:00 PM,Chicago
+Chicago Italian Beef & More,4.2,Italian,11:00 AM - 10:00 PM,Chicago
+Vincenzo's,4.8,Italian,5:00 PM - 10:30 PM,Chicago
+Little Italy Bistro,4.3,Italian,12:00 PM - 11:00 PM,Chicago
+Tandoor Palace,4.5,Indian,11:30 AM - 10:30 PM,Chicago
+Himalayan Kitchen,4.4,Indian,12:00 PM - 10:00 PM,Chicago
+India House,4.7,Indian,5:00 PM - 11:00 PM,Chicago
+Curry Express,4.2,Indian,11:00 AM - 10:30 PM,Chicago
+Szechuan Garden,4.6,Chinese,12:00 PM - 10:00 PM,Chicago
+Peking Duck House,4.3,Chinese,11:30 AM - 11:00 PM,Chicago
+Golden Wok,4.5,Chinese,4:00 PM - 10:30 PM,Chicago
+Dynasty Restaurant,4.4,Chinese,12:30 PM - 10:00 PM,Chicago
+Ocean Sushi,4.7,Japanese,6:00 PM - 11:30 PM,Miami
+Kobe Steakhouse,4.5,Japanese,5:30 PM - 11:00 PM,Miami
+Yamato Kitchen,4.4,Japanese,12:00 PM - 10:00 PM,Miami
+Tokyo Bay,4.6,Japanese,5:00 PM - 10:30 PM,Miami
+Côte d'Azur,4.8,French,7:00 PM - 11:30 PM,Miami
+Le Petit Paris,4.3,French,6:00 PM - 10:30 PM,Miami
+Riviera Café,4.6,French,11:00 AM - 10:00 PM,Miami
+Biscayne Bistro,4.4,French,5:30 PM - 11:00 PM,Miami
+Gianni's Trattoria,4.5,Italian,4:00 PM - 11:00 PM,Miami
+Venetian Harbor,4.7,Italian,5:00 PM - 10:30 PM,Miami
+Mamma Mia Miami,4.2,Italian,12:00 PM - 10:00 PM,Miami
+Sicilian Nights,4.6,Italian,6:00 PM - 11:00 PM,Miami
+Bollywood Kitchen,4.4,Indian,11:30 AM - 10:30 PM,Miami
+Maharani Palace,4.6,Indian,12:00 PM - 11:00 PM,Miami
+Coconut Curry,4.3,Indian,5:00 PM - 10:00 PM,Miami
+Spice Island,4.5,Indian,11:00 AM - 10:30 PM,Miami
+Golden Phoenix,4.5,Chinese,12:00 PM - 10:00 PM,Miami
+South Beach Wok,4.3,Chinese,11:30 AM - 11:00 PM,Miami
+Ming Dynasty,4.7,Chinese,5:00 PM - 10:30 PM,Miami
+Jade Garden,4.4,Chinese,12:30 PM - 10:00 PM,Miami
+Pike Place Sushi,4.8,Japanese,5:00 PM - 11:00 PM,Seattle
+Shogun Restaurant,4.5,Japanese,12:00 PM - 10:30 PM,Seattle
+Ramen Ichiban,4.6,Japanese,11:30 AM - 10:00 PM,Seattle
+Mt. Fuji Kitchen,4.4,Japanese,6:00 PM - 11:30 PM,Seattle
+Le Marché,4.7,French,6:30 PM - 10:30 PM,Seattle
+Café Toulouse,4.4,French,9:00 AM - 10:00 PM,Seattle
+Belltown Bistro,4.6,French,5:30 AM - 11:00 PM,Seattle
+French Quarter,4.5,French,11:00 AM - 10:30 PM,Seattle
+Salumi & Sons,4.6,Italian,11:00 AM - 9:00 PM,Seattle
+Capitol Hill Italian,4.4,Italian,5:00 PM - 10:30 PM,Seattle
+Nonna's Table,4.7,Italian,4:30 PM - 11:00 PM,Seattle
+Ballard Trattoria,4.3,Italian,12:00 PM - 10:00 PM,Seattle
+Emerald City Curry,4.5,Indian,11:30 AM - 10:30 PM,Seattle
+Himalayan Sherpa,4.6,Indian,12:00 PM - 10:00 PM,Seattle
+India Bistro,4.3,Indian,8:00 AM - 11:00 PM,Seattle
+Tandoori Nights,4.4,Indian,11:00 AM - 10:30 PM,Seattle
+Chinatown Express,4.4,Chinese,11:30 AM - 10:00 PM,Seattle
+Dragon Gate,4.6,Chinese,12:00 PM - 11:00 PM,Seattle
+Szechuan Chef,4.5,Chinese,5:00 PM - 10:30 PM,Seattle
+Golden Lion,4.3,Chinese,12:30 PM - 10:00 PM,Seattle
+Lone Star Sushi,4.5,Japanese,6:00 PM - 11:00 PM,Austin
+Sakura Austin,4.4,Japanese,12:00 PM - 10:30 PM,Austin
+Teppanyaki House,4.7,Japanese,5:30 PM - 10:00 PM,Austin
+Edo Sushi Bar,4.3,Japanese,11:30 AM - 11:00 PM,Austin
+Le Jardin Secret,4.8,French,7:00 PM - 11:30 PM,Austin
+Bordeaux House,4.5,French,6:00 PM - 10:30 PM,Austin
+Austin French Quarter,4.4,French,11:00 AM - 10:00 PM,Austin
+Café Provence,4.6,French,9:00 AM - 10:30 PM,Austin
+Villa Capri,4.6,Italian,5:00 PM - 11:00 PM,Austin
+Tony's Italian,4.3,Italian,12:00 PM - 10:00 PM,Austin
+Lombardi's Austin,4.7,Italian,4:30 PM - 10:30 PM,Austin
+Rosso Pomodoro,4.4,Italian,11:30 AM - 11:00 PM,Austin
+Taj Palace,4.5,Indian,11:00 AM - 10:30 PM,Austin
+Curry Kitchen,4.4,Indian,12:00 PM - 10:00 PM,Austin
+Spice Route Austin,4.6,Indian,5:00 PM - 11:00 PM,Austin
+Bombay Bites,4.3,Indian,11:30 AM - 10:30 PM,Austin
+Panda Express Gourmet,4.4,Chinese,12:00 PM - 10:00 PM,Austin
+Great Wall Austin,4.5,Chinese,11:30 AM - 11:00 PM,Austin
+Lucky Bamboo,4.6,Chinese,5:00 PM - 10:30 PM,Austin
+Jade Emperor,4.3,Chinese,12:30 PM - 10:00 PM,Austin
+Bonsai Garden,4.7,Japanese,6:00 PM - 11:30 PM,Boston
+Sakura Boston,4.5,Japanese,12:00 PM - 10:30 PM,Boston
+Samurai Sushi,4.6,Japanese,5:30 PM - 11:00 PM,Boston
+Mikado Restaurant,4.4,Japanese,11:30 AM - 10:00 PM,Boston
+L'Espalier,4.9,French,6:30 PM - 11:00 PM,Boston
+Café du Soleil,4.6,French,10:00 AM - 10:30 PM,Boston
+Back Bay Bistro,4.5,French,5:00 PM - 11:00 PM,Boston
+Petite Maison,4.7,French,11:00 AM - 10:00 PM,Boston
+North End Pasta,4.6,Italian,4:30 PM - 11:00 PM,Boston
+Antico Forno,4.8,Italian,12:00 PM - 10:30 PM,Boston
+Bella Luna,4.4,Italian,5:00 PM - 10:00 PM,Boston
+Trattoria di Monica,4.5,Italian,11:30 AM - 11:00 PM,Boston
+Kashmir Palace,4.5,Indian,11:00 AM - 10:30 PM,Boston
+Saffron Indian Bistro,4.6,Indian,12:00 PM - 10:00 PM,Boston
+Curry Point,4.3,Indian,5:00 PM - 11:00 PM,Boston
+Maharaja Boston,4.4,Indian,11:30 AM - 10:30 PM,Boston
+Chinatown Garden,4.5,Chinese,12:00 PM - 10:00 PM,Boston
+Peking Palace,4.4,Chinese,11:30 AM - 11:00 PM,Boston
+Golden Dragon,4.6,Chinese,5:00 PM - 10:30 PM,Boston
+Imperial Garden,4.3,Chinese,12:30 PM - 10:00 PM,Boston
+Mountain Sushi,4.6,Japanese,6:00 PM - 10:30 PM,Denver
+Aspen Sushi Bar,4.4,Japanese,12:00 PM - 11:00 PM,Denver
+Sakura Denver,4.7,Japanese,5:30 PM - 10:00 PM,Denver
+Kyoto Mountain,4.5,Japanese,11:30 AM - 10:30 PM,Denver
+Le Petit Coq,4.8,French,7:00 PM - 11:00 PM,Denver
+Café Lyonnais,4.5,French,9:00 AM - 10:30 PM,Denver
+Rocky Mountain French,4.6,French,6:00 PM - 10:00 PM,Denver
+Altitude Bistro,4.4,French,11:00 AM - 11:00 PM,Denver
+Panzano,4.7,Italian,5:00 PM - 10:30 PM,Denver
+Villa Italia,4.5,Italian,12:00 PM - 11:00 PM,Denver
+Denver Italian Kitchen,4.4,Italian,4:30 PM - 10:00 PM,Denver
+Osteria Marco,4.6,Italian,11:30 AM - 10:30 PM,Denver
+Himalayan Restaurant,4.5,Indian,11:00 AM - 10:00 PM,Denver
+Yak & Yeti,4.6,Indian,12:00 PM - 10:30 PM,Denver
+Curry N Kebab,4.3,Indian,5:00 PM - 11:00 PM,Denver
+Little India Denver,4.4,Indian,11:30 AM - 10:30 PM,Denver
+Empress Seafood,4.6,Chinese,11:30 AM - 10:00 PM,Denver
+Golden Bowl,4.4,Chinese,12:00 PM - 11:00 PM,Denver
+Szechuan Taste,4.7,Chinese,5:00 PM - 10:30 PM,Denver
+New China Buffet,4.2,Chinese,11:00 AM - 10:00 PM,Denver
+The Ivy,4.7,Modern British,12:00 PM - 11:00 PM,London
+Dishoom,4.6,Indian,12:00 PM - 11:30 PM,London
+Sketch,4.5,French,6:00 PM - 1:00 AM,London
+Barrafina,4.8,Italian,12:00 PM - 11:00 PM,London
+Nobu London,4.9,Japanese,6:00 PM - 11:30 PM,London
+Cote Brasserie,4.4,French,12:00 PM - 11:00 PM,London
+Tai Pan,4.3,Chinese,11:30 AM - 11:00 PM,London
+Balthazar,4.6,French,12:00 PM - 11:30 PM,London
+Gymkhana,4.7,Indian,12:00 PM - 2:30 PM / 5:30 PM - 11:00 PM,London
+Petrus,4.8,French,6:00 PM - 11:00 PM,London

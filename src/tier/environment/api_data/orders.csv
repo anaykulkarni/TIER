@@ -1,0 +1,8 @@
+order_id,cart_id,status,total_amount,shipping_method,created_date,customer_email
+ORD_12345,cart_12345,CONFIRMED,154.98,STANDARD,2024-08-20,john@email.com
+ORD_67890,cart_67890,SHIPPED,89.99,EXPRESS,2024-08-19,sarah@email.com
+ORD_54321,cart_54321,CONFIRMED,205.97,STANDARD,2024-08-20,mike@email.com
+ORD_98765,cart_98765,DELIVERED,45.00,STANDARD,2024-08-18,emily@email.com
+ORD_11111,cart_11111,CONFIRMED,329.98,EXPRESS,2024-08-21,david@email.com
+ORD_22222,cart_22222,PROCESSING,199.99,STANDARD,2024-08-20,lisa@email.com
+ORD_33333,cart_33333,CONFIRMED,75.98,STANDARD,2024-08-21,chris@email.com
